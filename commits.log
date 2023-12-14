@@ -1,0 +1,119 @@
+commit 331a7399eaede0b83d8cee97e5e97cc5cfd38d9c
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Thu Dec 14 15:20:21 2023 -0300
+
+    Agregando 2 lorem ipsum
+
+commit fddbe1f95b40eaecfd68de98dd3d8cca956d3377
+Merge: 934e7ee 1b10b3b
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Wed Dec 13 19:01:31 2023 -0300
+
+    Merge branch 'main' of https://github.com/Usuariopruebanacho/cursito-git
+
+commit 934e7ee0e49a196bd6372bef4f8d8a164b5ddac5
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Wed Dec 13 18:43:32 2023 -0300
+
+    Agregando estaciones del año con fecha
+
+commit 1b10b3b453737a7ff5b231392f44905ef1f19c2f
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Wed Dec 13 18:43:32 2023 -0300
+
+    Agregando estaciones del año
+
+commit fd9362ac0695be222165ad5ae2ed44e4a5b2493b
+Merge: 57b11e1 69de747
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Wed Dec 13 18:36:09 2023 -0300
+
+    Conflicto resuelto
+
+commit 69de74716410c6ede99ccf956d2848ccdb0f9f5e
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Wed Dec 13 18:31:32 2023 -0300
+
+    cambito
+
+commit 57b11e1558dc76d7d5b59a708cbf57f252e47469
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Wed Dec 13 18:30:51 2023 -0300
+
+    cambio
+
+commit 69f80d13c9ec3c9863c5a98ef14dfb0161ee46b6
+Merge: 3119f1d c1f4133
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Wed Dec 13 18:29:46 2023 -0300
+
+    Merge branch 'html'
+
+commit 3119f1d26d178e02a3036357759bc9d50df66d88
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Wed Dec 13 18:29:06 2023 -0300
+
+    Agregamos index.js al index.html
+
+commit c1f4133ed5837933b432f9ca9890a3419f027698
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Wed Dec 13 18:25:03 2023 -0300
+
+    Agregamos hoja de estilos al index.html
+
+commit 2ab566d8e6f6032268d3a0da81cd40ebb6d96f37
+Merge: ba8edbe 9929f6c
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Wed Dec 13 16:38:51 2023 -0300
+
+    Merge branch 'js'
+
+commit 9929f6cc1873814dd033e24e81808d804d48d55e
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Wed Dec 13 16:19:44 2023 -0300
+
+    de memoria
+
+commit ba8edbea2eda926b08ac161505755a3739a2b09e
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Wed Dec 13 16:11:47 2023 -0300
+
+    Agregando estilos css
+
+commit 1263aa0ddd9e3044e5a792f3bf488fd9bd9942ff
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Wed Dec 13 16:01:00 2023 -0300
+
+    agregamos rama html
+
+commit ed1202594c5f00e18a0813663b5a24f6eab6140d
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Wed Dec 13 15:42:00 2023 -0300
+
+    Ignoramos los archivos .exe
+
+commit 209c3eeff580f076f8c2523211692c5a2631ae83
+Author: Usuariopruebanacho <153544711+Usuariopruebanacho@users.noreply.github.com>
+Date:   Wed Dec 13 00:18:10 2023 -0300
+
+    Creando licensia del repositorio
+    
+    Se agrega el archivo
+
+commit d5215ad565601b6cf699c06cc71bcf1c3e3a88fe
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Wed Dec 13 00:04:52 2023 -0300
+
+    Chenco corleone beibi
+
+commit 402b168dd5986bdfa819ce9ce2a4ccee1bf6a6c2
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Tue Dec 12 19:52:49 2023 -0300
+
+    segundo commit desde consola
+
+commit dc3b391b77089821b83bf947d49e77d4845c498c
+Author: Elmaspicante <quetiporta05@gmail.com>
+Date:   Tue Dec 12 19:44:01 2023 -0300
+
+    Hola mundo commit

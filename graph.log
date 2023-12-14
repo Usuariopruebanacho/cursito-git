@@ -1,0 +1,26 @@
+* 331a739 Agregando 2 lorem ipsum
+*   fddbe1f Merge branch 'main' of https://github.com/Usuariopruebanacho/cursito-git
+|\  
+| * 1b10b3b Agregando estaciones del año
+* | 934e7ee Agregando estaciones del año con fecha
+|/  
+*   fd9362a Conflicto resuelto
+|\  
+| * 69de747 cambito
+* | 57b11e1 cambio
+* | 69f80d1 Merge branch 'html'
+|\| 
+| * c1f4133 Agregamos hoja de estilos al index.html
+* | 3119f1d Agregamos index.js al index.html
+|/  
+*   2ab566d Merge branch 'js'
+|\  
+| * 9929f6c de memoria
+* | ba8edbe Agregando estilos css
+* | 1263aa0 agregamos rama html
+|/  
+* ed12025 Ignoramos los archivos .exe
+* 209c3ee Creando licensia del repositorio
+* d5215ad Chenco corleone beibi
+* 402b168 segundo commit desde consola
+* dc3b391 Hola mundo commit
